@@ -1,3 +1,3 @@
 # CycleGAN-based-intrusion-detection
 ## Configuring the environment
-Open File：requirements.txt
+ Open File：requirements.txt
