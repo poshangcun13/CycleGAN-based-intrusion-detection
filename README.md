@@ -5,7 +5,8 @@
 ## Configuring the environment
  Open File：requirements.txt
 ## DataSets
- KDD99、CIC_DDOS2019、CIC_IDS2018
+ KDD99、CIC_DDOS2019、CIC_IDS2018\
+ file type：.xlsx
 ### data processing
  ***Z-scores***
 ## Using Frames
@@ -14,6 +15,7 @@
 ### data enhancement
 ![image](https://github.com/poshangcun13/CycleGAN-based-intrusion-detection/blob/main/data%20enhancement.png)
 ### run code
- run attacks.py
+ Train the model to detect individual attacks：run attacks.py\
+ Model monetization of test set: run predict.py
 ### performance analysis
 ![image](https://github.com/poshangcun13/CycleGAN-based-intrusion-detection/blob/main/FNR-FPR.png)
