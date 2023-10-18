@@ -5,7 +5,7 @@
 ## Configuring the environment
  Open File：requirements.txt
 ## DataSets
- KDD99、CIC_DDOS2019、CIC_IDS2018\
+ KDD99、CIC_DDOS2019、CIC_IDS2018,It should be noted that these three compressed data packages need to be downloaded separately and cannot be directly used for Git clones. Each one needs to be downloaded one by one.\
  File type：.xlsx
 ### Data processing
  ***Z-scores***
